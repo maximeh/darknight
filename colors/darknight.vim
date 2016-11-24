@@ -73,7 +73,7 @@ hi SpecialKey		ctermfg=none	ctermbg=none	cterm=none
 " Variable types
 " --------------------------------
 hi Constant		ctermfg=none	ctermbg=none	cterm=none
-hi String		ctermfg=none	ctermbg=none	cterm=underline
+hi String		ctermfg=none	ctermbg=none	cterm=none
 hi StringDelimiter 	ctermfg=none	ctermbg=none	cterm=none
 hi Character		ctermfg=none	ctermbg=none	cterm=none
 hi Number		ctermfg=none	ctermbg=none	cterm=none
